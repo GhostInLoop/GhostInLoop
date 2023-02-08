@@ -1,8 +1,8 @@
 ## Hello World 👋 My name is **Utkrishta Sinha**
-### I am a FrontEnd Web Developer
-![I am a Frontend Web Developer](https://github.com/utkrishta24/utkrishta24/blob/main/github-header-image%20(3).png)
+### I am a Web Developer
+![I am a Web Developer](https://github.com/utkrishta24/utkrishta24/blob/main/github-header-image%20(3).png)
 #### I am a B.Tech. student, currently learning React. I do problem solving with DSA and C++.
-**Skills**: C++ / DSA / REACT / JS / HTML / CSS / GIT / PYTHON
+<!-- **Skills**: C++ / DSA / REACT / JS / HTML / CSS / GIT / PYTHON -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkrishta24)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=utkrishta24&show_icons=true)  
 
