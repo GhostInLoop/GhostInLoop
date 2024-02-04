@@ -1,7 +1,7 @@
 ## Hello World 👋 My name is **Utkrishta Sinha**
 ### I am a Full-Stack MERN Web Developer & a C++ Programmer
 #### (which means sometimes I write my own code and sometimes I drink coffee while I copy others' code)
-![I am a Web Developer](https://github.com/utkrishta24/utkrishta24/blob/main/github-header-image%20(3).png)
+![I am a Web Developer](https://github.com/utkrishta24/utkrishta24/blob/main/github-header-image.png)
 #### I am a final year student, pursuing Bachelor of Technology in Information Technology. With a passion for coding, data structures and algorithms, and web development (MERN stack).
 ### Skills:
  ##### Programming: C, C++, Python, JavaScript, Java, Git, LaTeX, HTML5, CSS3.
