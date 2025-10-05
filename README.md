@@ -62,19 +62,19 @@ My journey blends strong fundamentals in **C++**, **Java**, and **Data Structure
 ### 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkrishta24)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/utkrishta24)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/utkrishta24)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=firefox&logoColor=white)](https://utkrishta.site)
-[![Behance](https://img.shields.io/badge/Behance-%231769FF.svg?style=flat&logo=behance&logoColor=white)](https://behance.net/utkrishtasinha)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/GhostInLoop)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/GhostInLoop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=firefox&logoColor=white)](https://utkrishta-portfolio-v3.vercel.app/)
+[![Behance](https://img.shields.io/badge/Behance-%231769FF.svg?style=flat&logo=behance&logoColor=white)](https://behance.net/GhostInLoop)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkrishta24&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostInLoop&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkrishta24&show_icons=true&theme=default&locale=en" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostInLoop&show_icons=true&theme=default&locale=en" alt="stats" />
 </p>
 
 ---
